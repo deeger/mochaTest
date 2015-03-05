@@ -1,0 +1,14 @@
+{
+  "name": "testingNode",
+  "version": "1.0.0",
+  "description": "Sample testing in Node",
+  "main": "math.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Your Name Here",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "^1.6.0"
+  }
+}
